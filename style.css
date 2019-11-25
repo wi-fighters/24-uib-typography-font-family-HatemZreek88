@@ -1,0 +1,14 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Montserrat", sans-serif;
+}
+main {
+  font-family: "Anton", Georgia, sans-serif, Times, serif;
+}
+.code {
+  font-family: monospace, "Times New Roman", Times, serif, sans-serif;
+}
